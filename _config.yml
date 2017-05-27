@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Initiatied by Burak Arikan on May 1st, 2017.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-email: hi@timetolive.co
-twitter_username: timetolive
+email: arikan@burak-arikan.com
+twitter_username:
 github_username:
 
 # Build settings
