@@ -1,1 +1,1 @@
-# timetolive
+Time To Live project invites artists to be part of a new type of art-making process where artworks live in relation to one another. The artists are asked to create new work that has agency in such a way that the work modifies itself with inputs and outputs based on the other works in the project. To develop such interactions, artists will develop and work with a rule set or protocol in order to enable material communication between their individual works.
