@@ -54,7 +54,7 @@ export default function Home() {
           {/* Three pillars */}
           <div className="grid md:grid-cols-3 gap-8 md:gap-12">
             <div className="animate-fade-in-up delay-400 group">
-              <div className="border-l-2 border-signal pl-6 py-2 transition-all group-hover:border-pulse ">
+              <div className="border-l-2 border-signal pl-6 py-2 transition-all group-hover:border-pulse">
                 <span className="text-signal text-xs uppercase tracking-widest block mb-4">
                   01 / Shared Commons
                 </span>
@@ -70,7 +70,7 @@ export default function Home() {
             </div>
 
             <div className="animate-fade-in-up delay-500 group">
-              <div className="border-l-2 border-signal pl-6 py-2 transition-all group-hover:border-pulse ">
+              <div className="border-l-2 border-signal pl-6 py-2 transition-all group-hover:border-pulse">
                 <span className="text-signal text-xs uppercase tracking-widest block mb-4">
                   02 / Energy Constraint
                 </span>
@@ -87,7 +87,7 @@ export default function Home() {
             </div>
 
             <div className="animate-fade-in-up delay-600 group">
-              <div className="border-l-2 border-signal pl-6 py-2 transition-all group-hover:border-pulse ">
+              <div className="border-l-2 border-signal pl-6 py-2 transition-all group-hover:border-pulse">
                 <span className="text-signal text-xs uppercase tracking-widest block mb-4">
                   03 / Shared Network
                 </span>
@@ -241,8 +241,8 @@ export default function Home() {
             {/* Sprint 1 */}
             <div className="animate-fade-in-up delay-400 group relative">
               <div className="flex items-start gap-6 py-6 border-l-2 border-stone pl-8 hover:border-signal transition-colors">
-                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-[9px] rounded-full bg-void border-2 border-signal group-hover:bg-signal transition-colors" />
-                <div className="flex-shrink-0 w-24">
+                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-2.25 rounded-full bg-void border-2 border-signal group-hover:bg-signal transition-colors" />
+                <div className="shrink-0 w-24">
                   <span className="text-signal font-bold">Sprint 1</span>
                   <span className="text-ash text-xs block">1 mo</span>
                 </div>
@@ -256,10 +256,10 @@ export default function Home() {
             {/* Sprint 2 */}
             <div className="animate-fade-in-up delay-500 group relative">
               <div className="flex items-start gap-6 py-6 border-l-2 border-stone pl-8 hover:border-signal transition-colors">
-                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-[9px] rounded-full bg-void border-2 border-stone group-hover:border-signal group-hover:bg-signal transition-colors" />
-                <div className="flex-shrink-0 w-24">
+                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-2.25 rounded-full bg-void border-2 border-stone group-hover:border-signal group-hover:bg-signal transition-colors" />
+                <div className="shrink-0 w-24">
                   <span className="text-pulse font-bold">Sprint 2</span>
-                  <span className="text-ash text-xs block">1–2 mo</span>
+                  <span className="text-ash text-xs block">1-2 mo</span>
                 </div>
                 <div>
                   <h3 className="text-bone font-medium mb-1">Protocol & Platform Development</h3>
@@ -271,10 +271,10 @@ export default function Home() {
             {/* Sprint 3 */}
             <div className="animate-fade-in-up delay-600 group relative">
               <div className="flex items-start gap-6 py-6 border-l-2 border-stone pl-8 hover:border-signal transition-colors">
-                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-[9px] rounded-full bg-void border-2 border-stone group-hover:border-signal group-hover:bg-signal transition-colors" />
-                <div className="flex-shrink-0 w-24">
+                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-2.25 rounded-full bg-void border-2 border-stone group-hover:border-signal group-hover:bg-signal transition-colors" />
+                <div className="shrink-0 w-24">
                   <span className="text-bone font-bold">Sprint 3</span>
-                  <span className="text-ash text-xs block">2–3 mo</span>
+                  <span className="text-ash text-xs block">2-3 mo</span>
                 </div>
                 <div>
                   <h3 className="text-bone font-medium mb-1">Prototyping / Residency</h3>
@@ -286,10 +286,10 @@ export default function Home() {
             {/* Sprint 4 */}
             <div className="animate-fade-in-up delay-700 group relative">
               <div className="flex items-start gap-6 py-6 border-l-2 border-stone pl-8 hover:border-signal transition-colors">
-                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-[9px] rounded-full bg-void border-2 border-stone group-hover:border-signal group-hover:bg-signal transition-colors" />
-                <div className="flex-shrink-0 w-24">
+                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-2.25 rounded-full bg-void border-2 border-stone group-hover:border-signal group-hover:bg-signal transition-colors" />
+                <div className="shrink-0 w-24">
                   <span className="text-bone font-bold">Sprint 4</span>
-                  <span className="text-ash text-xs block">2–3 mo</span>
+                  <span className="text-ash text-xs block">2-3 mo</span>
                 </div>
                 <div>
                   <h3 className="text-bone font-medium mb-1">Integration & Iteration</h3>
@@ -301,10 +301,10 @@ export default function Home() {
             {/* Sprint 5 */}
             <div className="animate-fade-in-up delay-800 group relative">
               <div className="flex items-start gap-6 py-6 border-l-2 border-stone pl-8 hover:border-signal transition-colors">
-                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-[9px] rounded-full bg-void border-2 border-stone group-hover:border-signal group-hover:bg-signal transition-colors" />
-                <div className="flex-shrink-0 w-24">
+                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-2.25 rounded-full bg-void border-2 border-stone group-hover:border-signal group-hover:bg-signal transition-colors" />
+                <div className="shrink-0 w-24">
                   <span className="text-bone font-bold">Sprint 5</span>
-                  <span className="text-ash text-xs block">2–3 mo</span>
+                  <span className="text-ash text-xs block">2-3 mo</span>
                 </div>
                 <div>
                   <h3 className="text-bone font-medium mb-1">Production & Testing</h3>
@@ -316,10 +316,10 @@ export default function Home() {
             {/* Sprint 6 */}
             <div className="animate-fade-in-up delay-800 group relative">
               <div className="flex items-start gap-6 py-6 border-l-2 border-signal pl-8">
-                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-[9px] rounded-full bg-signal" />
-                <div className="flex-shrink-0 w-24">
+                <div className="absolute left-0 top-8 w-4 h-4 -translate-x-2.25 rounded-full bg-signal" />
+                <div className="shrink-0 w-24">
                   <span className="text-signal font-bold">Sprint 6</span>
-                  <span className="text-ash text-xs block">2–3 mo</span>
+                  <span className="text-ash text-xs block">2-3 mo</span>
                 </div>
                 <div>
                   <h3 className="text-bone font-medium mb-1">Exhibition & Afterlife</h3>
